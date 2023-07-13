@@ -27,7 +27,7 @@ The Weather Dashboard is a web application that allows users to search for weath
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/weather-dashboard.git`
+1. Clone the repository: `git clone https://github.com/your-username/Weatherly.git`
 2. Open the index.html file in a web browser.
 
 ## Credits
