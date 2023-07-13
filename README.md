@@ -1,6 +1,6 @@
 # Weatherly
 
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot](weatherly.png)
 
 The Weather Dashboard is a web application that allows users to search for weather information based on zip codes. It provides current weather data and a five-day forecast for the entered location. Users can also view their search history and quickly access weather information for previously searched locations.
 
