@@ -32,7 +32,7 @@ The Weather Dashboard is a web application that allows users to search for weath
 
 ## Credits
 
-- The Weather Dashboard application is created by [Your Name].
+- The Weatherly Application is created by 0kJay50.
 - Weather data is provided by the [OpenWeatherMap API](https://openweathermap.org/).
 
 ## License
